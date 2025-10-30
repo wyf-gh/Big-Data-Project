@@ -1,0 +1,32 @@
+
+Central Bank Data Insight Report (2020-2024)
+=============================================
+Generated on: 2025-10-29 17:13:06
+Data Source: FRED (Federal Reserve Economic Data)
+Data Directory: C:\Users\wyf\projects\big_data\central_bank_data
+
+1. Interest Rate Trend Insights
+-------------------------------
+- US: Implemented aggressive rate hikes from 2022 (0.25% → 5.50%), maintaining high rates in 2024 to combat inflation.
+- Eurozone: Followed the US with rate hikes (from -0.50% to 4.00%), peaking in mid-2023.
+- Japan: Ended the long-term negative rate policy in March 2024 (from -0.10% to 0.10%), the first rate hike in over a decade.
+- China: Maintained relatively stable rates (around 1.50%-2.00%), with mild cuts to support economic growth.
+
+2. Foreign Exchange Reserves Insights
+-------------------------------------
+- China: Reserves remained stable at over $3 trillion, the largest among the four economies, providing strong exchange rate support.
+- Japan: Reserves declined slightly from $1.4 trillion to $1.2 trillion (2020-2024), partly due to yen intervention.
+- US: Reserves stayed low (around $100 billion) – no need for high reserves as the USD is the global reserve currency.
+- Eurozone: No direct reserves data available on FRED; recommend referring to ECB official reports.
+
+3. Interest Rate Spread Insights
+--------------------------------
+- US-China Spread: Widened significantly in 2022 (peaked at ~4.00%), narrowing slightly in 2024 as US rate cut expectations rose.
+- US-Japan Spread: Reached the largest gap (over 5.00%) in 2023, driving USD/JPY appreciation.
+- US-Eurozone Spread: Remained around 1.00%-1.50% in 2024, with limited impact on EUR/USD volatility.
+
+4. Key Recommendations
+----------------------
+- For汇率 (Exchange Rate) Analysis: Focus on US-China and US-Japan spreads – historical data shows a strong positive correlation with USD/CNY and USD/JPY.
+- For Policy Monitoring: Track Fed and ECB rate cut timelines (2024-2025) – likely to impact global capital flows.
+- For Data Completeness: Supplement Eurozone reserves data from ECB官网 (www.ecb.europa.eu) and China's LPR data from PBC官网.

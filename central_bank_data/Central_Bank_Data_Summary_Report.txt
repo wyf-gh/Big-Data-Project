@@ -1,0 +1,143 @@
+Central Bank Data Summary Report - Top 4 Economies
+======================================================================
+Generated at: 2025-10-30 17:47:46
+Number of data files: 16
+Time Range: January 1, 2020 to December 31, 2024
+
+
+======================================================================
+【US】
+======================================================================
+
+File: US_Effective_Federal_Funds_Rate_Daily_EFFR.csv
+  Record count: 1305
+  Date range: 2020-01-01 to 2024-12-31
+  Minimum value: 0.0400
+  Maximum value: 5.3300
+  Average value: 2.4516
+  Latest value: 4.3300
+
+File: US_Fed_Funds_Effective_Rate_Daily_DFF.csv
+  Record count: 1827
+  Date range: 2020-01-01 to 2024-12-31
+  Minimum value: 0.0400
+  Maximum value: 5.3300
+  Average value: 2.4626
+  Latest value: 4.3300
+
+File: US_Fed_Funds_Target_Rate_Monthly_FEDFUNDS.csv
+  Record count: 60
+  Date range: 2020-01-01 to 2024-12-01
+  Minimum value: 0.0500
+  Maximum value: 5.3300
+  Average value: 2.4613
+  Latest value: 4.4800
+
+File: US_Foreign_Exchange_Reserves_Monthly_TRESEGUSM052N.csv
+  Record count: 60
+  Date range: 2020-01-01 to 2024-12-01
+  Minimum value: 116868.9934
+  Maximum value: 242176.2605
+  Average value: 199296.7461
+  Latest value: 227759.6982
+
+File: US_Interest_Rate_on_Reserves_Daily_IORB.csv
+  Record count: 1252
+  Date range: 2021-07-29 to 2024-12-31
+  Minimum value: 0.1500
+  Maximum value: 5.4000
+  Average value: 3.5420
+  Latest value: 4.4000
+
+File: US_Secured_Overnight_Financing_Rate_Daily_SOFR.csv
+  Record count: 1305
+  Date range: 2020-01-01 to 2024-12-31
+  Minimum value: 0.0100
+  Maximum value: 5.4000
+  Average value: 2.4350
+  Latest value: 4.4900
+
+
+======================================================================
+【Eurozone】
+======================================================================
+
+File: Eurozone_ECB_Deposit_Facility_Rate_Daily_ECBDFR.csv
+  Record count: 1827
+  Date range: 2020-01-01 to 2024-12-31
+  Minimum value: -0.5000
+  Maximum value: 4.0000
+  Average value: 1.2241
+  Latest value: 3.0000
+
+File: Eurozone_ECB_Main_Refinancing_Rate_Daily_ECBMRRFR.csv
+  Record count: 1827
+  Date range: 2020-01-01 to 2024-12-31
+  Minimum value: 0.0000
+  Maximum value: 4.5000
+  Average value: 1.7040
+  Latest value: 3.1500
+
+
+======================================================================
+【UK】
+======================================================================
+
+File: UK_Deposit_Interest_Rate_Monthly_IR3TIB01GBM156N.csv
+  Record count: 60
+  Date range: 2020-01-01 to 2024-12-01
+  Minimum value: 0.0300
+  Maximum value: 5.5300
+  Average value: 2.4677
+  Latest value: 4.6400
+
+File: UK_Foreign_Exchange_Reserves_Monthly_TRESEGGBM052N.csv
+  Record count: 60
+  Date range: 2020-01-01 to 2024-12-01
+  Minimum value: 143168.4199
+  Maximum value: 176024.0050
+  Average value: 156562.0745
+  Latest value: 148569.3546
+
+
+======================================================================
+【Japan】
+======================================================================
+
+File: Japan_Foreign_Exchange_Reserves_Monthly_TRESEGJPM052N.csv
+  Record count: 60
+  Date range: 2020-01-01 to 2024-12-01
+  Minimum value: 1149985.3251
+  Maximum value: 1371116.3152
+  Average value: 1262447.0732
+  Latest value: 1159702.3791
+
+File: Japan_Short-Term_Interest_Rate_Monthly_IRSTCI01JPM156N.csv
+  Record count: 60
+  Date range: 2020-01-01 to 2024-12-01
+  Minimum value: -0.0700
+  Maximum value: 0.2270
+  Average value: -0.0008
+  Latest value: 0.2270
+
+
+======================================================================
+【China】
+======================================================================
+
+File: China_Deposit_Interest_Rate_Monthly_INTDSRCNM193N.csv
+  Record count: 60
+  Date range: 2020-01-01 to 2024-12-01
+  Minimum value: 2.9000
+  Maximum value: 2.9000
+  Average value: 2.9000
+  Latest value: 2.9000
+
+File: China_Foreign_Exchange_Reserves_Monthly_TRESEGCNM052N.csv
+  Record count: 60
+  Date range: 2020-01-01 to 2024-12-01
+  Minimum value: 3079722.2078
+  Maximum value: 3381380.8363
+  Average value: 3225953.5780
+  Latest value: 3264803.8697
+
